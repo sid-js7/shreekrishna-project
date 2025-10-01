@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Share Tech";
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+    background: linear-gradient(180deg, #fef9c3, #dbeafe, #fef9c3);
+}
+
+#flute {
+    width: 50px;
+    width: 4vw;
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 16vh;
+    gap: 0.8vh;
+    padding: 16px;
+    background: linear-gradient(135deg, #0f172a, #1e40af, #facc15);
+    color: #facc15; 
+    text-shadow: 0px 2px 6px rgba(0,0,0,0.4);
+    border-bottom: 3px solid #facc15;
+}
+
+.header h1{
+    font-size: 3vw;
+}
+
+main{
+
+    height: calc(100% - 20vh);
+    padding: 12px 0 0 0;
+    
+}
+
+.mantra{
+
+    font-size: 1.8rem;
+    text-align: center;
+    margin: 10px 0 18px 0;
+    color: #1e40af;
+
+}
+
+#section-one{
+
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    
+}
+
+#secone-div{
+
+    width: 80%;
+    height: 60vh;
+    display: flex;
+    gap: 10px;
+    overflow-x: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.2);
+}
+
+
+#secone-div::-webkit-scrollbar{
+    background-color: transparent;
+    height: 7px;
+}
+
+#secone-div::-webkit-scrollbar-thumb{
+    background-color: #d6e62a;
+}
+
+#section-one img{
+    height: 100%;
+    width: auto;
+    object-fit: cover;
+    flex-shrink: 0;
+    border-radius: 10px;
+}
+
+h4{
+    
+    font-size: 1.4rem;
+    text-align: center;
+    color: #1e40af;
+    font-weight: 600;
+    margin: 20px;
+
+}
+
+span{
+    color: #b45309;
+    font-weight: bold;
+    text-shadow: 0px 2px 4px rgba(0,0,0,0.2);
+}
+
+
+
