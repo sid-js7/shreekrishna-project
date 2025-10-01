@@ -18,3 +18,6 @@ This project is dedicated to **Lord Shree Krishna Ji**, my eternal guide and sou
 I aim to keep learning and improving, guided by His divine teachings.
 
 **💙 Jai Shree Krishna 🙏**
+
+## My Projects
+- 🌸 [ShreeKrishna Project](https://sid-js7.github.io/shreekrishna-project/)
